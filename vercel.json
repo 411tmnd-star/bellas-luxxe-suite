@@ -1,5 +1,0 @@
-{
-  "rewrites": [
-    { "source": "/(.*)", "destination": "/bellas-luxxe-suite.html" }
-  ]
-}
